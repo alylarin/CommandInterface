@@ -22,8 +22,6 @@ public class LoggingUtils {
         System.out.println(message);
     }
 
-    public static void
-
     public static void write(String message) {
         write(message, new String[] {});
     }
